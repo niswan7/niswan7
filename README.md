@@ -1,23 +1,24 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm **Shamil Niswan**
+# Hi, I'm **Shamil Niswan** 👋
 
-### 💻 Full Stack Developer | 🎓 B.Tech CSE Student @ CUSAT (CUCEK) | 🇮🇳 India
+### Junior Software Engineer @ KernalScape | B.Tech CSE Student @ CUSAT (CUCEK) | Full Stack Developer
 
-I'm passionate about building modern web applications, designing scalable systems, and learning new technologies. I enjoy turning ideas into real-world projects and continuously improving my development skills.
+I'm a Full Stack Developer with a passion for building scalable web applications, solving real-world problems, and continuously learning new technologies. I enjoy working across the entire software development lifecycle—from designing user interfaces to developing backend services and deploying applications.
 
 ---
 
 ## 🚀 About Me
 
+* 💼 **Junior Software Engineer** at **KernalScape**
 * 🎓 B.Tech Computer Science Engineering student at **CUSAT (CUCEK)**
-* 💻 Full Stack Web Developer
-* 🌱 Currently learning **System Design, Cloud, AI & AR/VR**
-* 🎮 Interested in Game Development with C++
-* ⚡ Love solving real-world problems through software
-* 📚 Always exploring new technologies
+* 💻 Passionate about Full Stack Web Development
+* 🌱 Currently exploring **System Design, Cloud Computing, AI, and AR/VR**
+* 🎮 Interested in C++ Graphics Programming and Game Development
+* 🤝 Enjoy collaborating on impactful software projects
+* 📚 Committed to continuous learning and professional growth
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 
@@ -43,7 +44,7 @@ I'm passionate about building modern web applications, designing scalable system
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,npm" />
@@ -51,45 +52,74 @@ I'm passionate about building modern web applications, designing scalable system
 
 ---
 
-# 📌 Featured Projects
+# 💼 Professional Experience
 
-### 🚗 Driving School Management System
+### Junior Software Engineer — KernalScape
 
-A full-stack application for managing students, instructors, driving schedules, payments, and administration.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-### 🛒 Smart Delivery Platform
-
-A scalable multi-role delivery application with customer, vendor, admin, and delivery partner modules.
-
-**Tech:** React • Express • MongoDB • REST API
+* Contributing to the development and maintenance of modern web applications.
+* Working with frontend and backend technologies to build scalable software solutions.
+* Collaborating with senior developers throughout the software development lifecycle.
+* Participating in feature implementation, debugging, testing, and deployment.
 
 ---
 
-### 🌦 Weather Forecast Web App
+# 🚀 Featured Projects
 
-Responsive weather application using OpenWeather API.
+## 🏛 IIIT Kottayam Official Website *(Professional Project – KernalScape)*
 
-**Tech:** React • TypeScript • Vite
+Contributed to the development of the official **IIIT Kottayam website** as part of the KernalScape development team.
+
+### Contributions
+
+* Developed and enhanced frontend components using React.
+* Implemented responsive user interfaces.
+* Integrated backend APIs.
+* Fixed bugs and improved existing features.
+* Collaborated with the development team to deliver production-ready functionality.
+
+**Tech Stack:** React • TypeScript • Node.js • Express • REST APIs
 
 ---
 
-### 🎮 3D Maze Game
+## 🚗 Driving School Management System
+
+A full-stack web application for managing student registrations, instructors, driving schedules, payments, and administration.
+
+**Tech Stack:** React • Node.js • Express • MongoDB
+
+---
+
+## 🛒 Smart Delivery Platform
+
+A scalable multi-role delivery platform supporting customers, vendors, administrators, and delivery partners.
+
+**Tech Stack:** React • Express • MongoDB • REST APIs
+
+---
+
+## 🌦 Weather Forecast Web App
+
+A responsive weather forecasting application built using the OpenWeather API.
+
+**Tech Stack:** React • TypeScript • Vite
+
+---
+
+## 🎮 3D Maze Game
 
 A C++ graphics project featuring:
 
 * Multiple Levels
-* Checkpoints
-* Time-based gameplay
-* Death System
+* Time-based Checkpoints
+* Death Mechanics
 * Maze Navigation
+* Progressive Difficulty
+
+**Tech Stack:** C++ • OpenGL • Computer Graphics
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -99,8 +129,6 @@ A C++ graphics project featuring:
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=niswan7&theme=tokyonight&hide_border=true"/>
@@ -109,7 +137,7 @@ A C++ graphics project featuring:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -129,7 +157,7 @@ A C++ graphics project featuring:
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p>
 
@@ -137,15 +165,11 @@ A C++ graphics project featuring:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Add these when available -->
+<!-- Add your LinkedIn when available -->
 
 <!--
 <a href="https://linkedin.com/in/YOUR_USERNAME">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-🌐 Portfolio
 </a>
 -->
 
@@ -153,9 +177,9 @@ A C++ graphics project featuring:
 
 ---
 
-## 💡 Developer Quote
+## 💬 Quote
 
-> "The best software isn't just code that works—it's code that people can trust, maintain, and build upon."
+> *"Great software is built through continuous learning, thoughtful design, and attention to detail."*
 
 ---
 
