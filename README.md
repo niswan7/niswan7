@@ -117,4 +117,22 @@ A C++ graphics project featuring:
 
 **Tech Stack:** C++ • OpenGL • Computer Graphics
 
+
 ---
+## 🌐 Connect With Me
+
+<p>
+
+<a href="https://github.com/niswan7">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/shamil-niswan-tkc">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+* **GitHub:** https://github.com/niswan7
+* **LinkedIn:** https://linkedin.com/in/shamil-niswan-tkc
+
