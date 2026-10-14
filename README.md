@@ -1,6 +1,6 @@
 # Hi, I'm **Shamil Niswan** 👋
 
-### Junior Software Engineer @ KernalScape | B.Tech CSE Student @ CUSAT (CUCEK) | Full Stack Developer
+### Junior Software Engineer @ KernalScape | B.Tech Information Technology Student @ CUSAT (CUCEK) | Full Stack Developer
 
 I'm a Full Stack Developer with a passion for building scalable web applications, solving real-world problems, and continuously learning new technologies. I enjoy working across the entire software development lifecycle—from designing user interfaces to developing backend services and deploying applications.
 
@@ -9,7 +9,7 @@ I'm a Full Stack Developer with a passion for building scalable web applications
 ## 🚀 About Me
 
 * 💼 **Junior Software Engineer** at **KernalScape**
-* 🎓 B.Tech Computer Science Engineering student at **CUSAT (CUCEK)**
+* 🎓 B.Tech Information Technology student at **CUSAT (CUCEK)**
 * 💻 Passionate about Full Stack Web Development
 * 🌱 Currently exploring **System Design, Cloud Computing, AI, and AR/VR**
 * 🎮 Interested in C++ Graphics Programming and Game Development
